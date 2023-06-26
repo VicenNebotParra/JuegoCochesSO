@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIENTEPARCHIS", "CLIENTEPARCHIS.csproj", "{6E76D5A1-BD7F-4DE5-8B08-11EC431CB570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "juegocochesSO", "..\..\..\..\..\..\Downloads\finalisimo\finalisimo\JUEGOCOCHES_SO\juegocochesSO\juegocochesSO.csproj", "{8B6FBAF2-24BD-48DB-BE0C-B2286FB44BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E76D5A1-BD7F-4DE5-8B08-11EC431CB570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E76D5A1-BD7F-4DE5-8B08-11EC431CB570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E76D5A1-BD7F-4DE5-8B08-11EC431CB570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E76D5A1-BD7F-4DE5-8B08-11EC431CB570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6FBAF2-24BD-48DB-BE0C-B2286FB44BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6FBAF2-24BD-48DB-BE0C-B2286FB44BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6FBAF2-24BD-48DB-BE0C-B2286FB44BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6FBAF2-24BD-48DB-BE0C-B2286FB44BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA36187-D491-4136-A281-EA442A3029C8}
+	EndGlobalSection
+EndGlobal
